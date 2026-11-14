@@ -28,6 +28,7 @@ The Primary_Region and Primary_Threat will be the main potential elements analyz
 
 
 Results:
+The first questioned was answered. The code can be found in the .py file, and the images of the terminal and the plot can be found in the other .md file.
 
 Conclusions:
 
