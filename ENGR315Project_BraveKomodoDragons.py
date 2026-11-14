@@ -4,6 +4,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 #import scipy.stats
 
+
+#in order to set everything up, I followed the set-up guide for Forsyth's repo 
+#but changes it to this folder instead of the 315 one
+#because the requirements.txt isnt in this repo, i individually installed the libraries needed
+
+
+
+
 #set the file_path to the csv
 file_path = 'Global_Endangered_Wildlife.csv'
 
